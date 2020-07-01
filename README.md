@@ -1,2 +1,2 @@
 # Web-Scrapper
-Web Scrapping using bs4
+This program uses BeautifulSoup and Urlparser.
