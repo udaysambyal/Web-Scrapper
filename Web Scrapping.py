@@ -1,8 +1,6 @@
 import requests
 from urllib.request import urlparse, urljoin
 from bs4 import BeautifulSoup
-import colorama
-
 
 internal_urls = set()
 external_urls = set()
